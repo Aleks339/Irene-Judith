@@ -47,7 +47,7 @@
                   <li><a href="Irene_about.html">About me</a></li>
                   <li><a href="#">Prices</a></li>
                   <li><a href="#">Articles</a></li>
-                  <li><a href="#">Contacts</a></li>
+                  <li><a href="Irene_contacts.html">Contacts</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                   <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
@@ -101,8 +101,8 @@
         </div>
     </div>
     
-    <div class="container-fluid">
-      <h2>Will you send me your problem, please?</h2>
+     <div class="container-fluid">
+      <h2>Write your problem to Judith, and she will answer you in the nearest time!</h2>
       <form class="form-horizontal" action="/action_page.php">
         <div class="form-group">
           <label class="control-label col-sm-2" for="name">Name:</label>
@@ -111,17 +111,29 @@
           </div>
         </div>
         <div class="form-group">
-          <label class="control-label col-sm-2" for="email">E-mail:</label>
+          <label class="control-label col-sm-2" for="problem">Kind of problem</label>
           <div class="col-sm-8">          
-            <input type="text" class="form-control" id="email" placeholder="Enter your email" name="email">
+            <input type="text" class="form-control" id="problem" placeholder="Enter your kind of problem" name="problem">
+            </div>
+          </div>
+          <div class="form-group">    
+             <label class="control-label col-sm-2" for="email">E-mail or contact phone number:</label>
+              <div class="col-sm-8">
+              <input type="text" class="form-control" id="email" placeholder="Enter your email" name="email"><br>
+            </div>
+        </div>
+        <div class="form-group"> 
+          <div class="col-sm-2">  
             <h5>What is your question?</h5>
+          </div>
+        <div class="col-sm-8">
             <textarea placeholder = "Enter your problem, please" cols = "40" rows = "10"></textarea>
+        </div>
         </div>
         <div class="form-group">        
           <div class="col-sm-offset-2 col-sm-8">
             <button type="submit" class="btn btn-default">Submit</button>
           </div>
-        </div>
        </div>
       </form>
     </div>
