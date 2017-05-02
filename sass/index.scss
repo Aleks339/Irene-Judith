@@ -1,0 +1,25 @@
+$AntiqueWhite:AntiqueWhite;
+$red:red;
+$cursive:cursive;
+$bold: bold;
+
+body{
+    background-color: $AntiqueWhite;
+    color:$red;
+    h1 {
+       font-family: $cursive; 
+       font-size: 80px;
+    }
+    img {
+        margin:auto;
+        width:70%;
+        height:70%;
+    }
+    p{
+      color:$red;
+      font-size: 80px;
+    }
+    h5{
+        font-weight: $bold;
+    }
+}
