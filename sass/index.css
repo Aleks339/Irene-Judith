@@ -13,3 +13,12 @@ body {
     font-size: 80px; }
   body h5 {
     font-weight: bold; }
+  body .irene_about {
+    font-size: 16px; }
+  body .irene_about_lead {
+    font-weight: bold; }
+  body .img-thumbnail {
+    width: 100%;
+    height: 100%; }
+  body .carousel-caption p {
+    font-size: 40px; }
