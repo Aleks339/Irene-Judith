@@ -22,3 +22,5 @@ body {
     height: 100%; }
   body .carousel-caption p {
     font-size: 40px; }
+  body address .row .col-sm-12 p {
+    font-size: 30px; }
