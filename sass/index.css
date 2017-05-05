@@ -20,6 +20,13 @@ body {
   body .img-thumbnail {
     width: 100%;
     height: 100%; }
+  body .decr {
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin: 20px; }
+  body .descr {
+    font-size: 16px; }
   body .carousel-caption p {
     font-size: 40px; }
   body address .row .col-sm-12 p {
