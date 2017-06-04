@@ -1,6 +1,6 @@
      <div class="container">
       <h2>Write your problem to Judith, and she will answer you in the nearest time!</h2>
-      <form class="form-horizontal"  action="action_page.php" method = "get">
+      <form class="form-horizontal"  action="action_page.php" method = "post">
         <div class="form-group">
           <label class="control-label col-sm-2" for="name">Name:</label>
           <div class="col-sm-8">
@@ -24,7 +24,7 @@
             <h5>What is your question?</h5>
           </div>
         <div class="col-sm-8">
-            <textarea placeholder = "Enter your problem, please" cols = "40" rows = "10"></textarea>
+            <textarea placeholder = "Enter your problem, please" cols = "40" rows = "10" name = "text"></textarea>
         </div>
         </div>
         <div class="form-group">        
