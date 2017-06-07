@@ -12,7 +12,7 @@
                 <div class = "col-xs-12 col-sm-4">
                     <h3>Header of the article</h3>
                     <div class = "article">Phasellus sed consectetur enim. Sed vulputate eros at elementum luctus. Etiam vitae lacinia nibh, sit amet mollis sapien. Pellentesque eget viverra sapien, et ullamcorper orci. Fusce ipsum tellus, cursus faucibus magna ut, pretium lobortis diam.</div>
-                    <a href = "Irene_example_of_an_article.html">Read more...</a>
+                    <a href = "irene_example_of_an_article.html">Read more...</a>
                 </div>
             </div>
             <div class = "row">    
@@ -22,7 +22,7 @@
                 <div class = "col-xs-12 col-sm-4">
                     <h3>Header of the article</h3>
                     <div class = "article">Phasellus sed consectetur enim. Sed vulputate eros at elementum luctus. Etiam vitae lacinia nibh, sit amet mollis sapien. Pellentesque eget viverra sapien, et ullamcorper orci. Fusce ipsum tellus, cursus faucibus magna ut, pretium lobortis diam.</div>
-                    <a href = "Irene_example_of_an_article.html">Read more...</a>
+                    <a href = "irene_example_of_an_article.php">Read more...</a>
                 </div>
             </div>
             
@@ -33,7 +33,7 @@
                 <div class = "col-xs-12 col-sm-4">
                     <h3>Header of the article</h3>
                     <div class = "article">Phasellus sed consectetur enim. Sed vulputate eros at elementum luctus. Etiam vitae lacinia nibh, sit amet mollis sapien. Pellentesque eget viverra sapien, et ullamcorper orci. Fusce ipsum tellus, cursus faucibus magna ut, pretium lobortis diam.</div>
-                    <a href = "Irene_example_of_an_article.html">Read more...</a>
+                    <a href = "irene_example_of_an_article.php">Read more...</a>
                 </div>
             </div>
         </div>

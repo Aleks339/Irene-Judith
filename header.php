@@ -42,11 +42,11 @@
                   <a class = "navbar-brand" href="index.php">My front page</a>
                 </div>
                 <ul class="nav navbar-nav">
-                  <li><a href="Irene_about.php">About me</a></li>
-                  <li><a href="Irene_prices.php">Prices</a></li>
-                  <li><a href="Irene_articles.php">Articles</a></li>
-                  <li><a href="Irene_reviews.php">Reviews</a></li>
-                  <li><a href="Irene_contacts.php">Contacts</a></li>
+                  <li><a href="irene_about.php">About me</a></li>
+                  <li><a href="irene_prices.php">Prices</a></li>
+                  <li><a href="irene_articles.php">Articles</a></li>
+                  <li><a href="irene_reviews.php">Reviews</a></li>
+                  <li><a href="irene_contacts.php">Contacts</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                   <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
