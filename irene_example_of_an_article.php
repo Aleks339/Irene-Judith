@@ -1,9 +1,4 @@
 <? include 'header.php'; ?>
-                <ol class="breadcrumb">
-                  <li><a href="Irene_about.html">About me</a></li>
-                  <li class="active">My job description</li>
-                </ol>
-        
         <div class = "container">
             <div class = "article">
                 
